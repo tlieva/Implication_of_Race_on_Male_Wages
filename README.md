@@ -2,8 +2,7 @@
 
 Repository for collaborative R project completed for academic purposes at the University of Toronto.
 
-
-_This project was completed using ‘wage’ dataset was from the An Introduction to Statistical Learning with applications in R 2nd ed. and was assembled by Steve Miller of Inquidia Consulting on behalf of the US Census Bureau for the Supplement to Current Population Survey._
+This project was completed using ‘wage’ dataset was from the An Introduction to Statistical Learning with applications in R 2nd ed. and was assembled by Steve Miller of Inquidia Consulting on behalf of the US Census Bureau for the Supplement to Current Population Survey.
 
 ## Introduction & Background
 
