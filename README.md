@@ -14,8 +14,9 @@ _This project was completed using ‘wage’ dataset was from the An Introductio
 
 - We also note that this disproportionate distribution of racial groups is also reflected in the dataset with majority of the samples being white males representing an estimated 83% of the sample (see Table 1; Figure 1).
 
-
+<p align="center">
 <img width="733" alt="Screen Shot 2023-02-01 at 5 45 37 PM" src="https://user-images.githubusercontent.com/106416383/216181733-dbf4e159-e207-434e-8f40-9f3022d15f96.png">
+</p>
 
 
 ## Summary of Methodology
@@ -45,17 +46,21 @@ This study presents two analyses:
 
 ## Summary of Tukey Results
 
-<img width="364" alt="Screen Shot 2023-02-01 at 5 57 50 PM" src="https://user-images.githubusercontent.com/106416383/216184930-17bcd69b-86c9-4eb3-b3dd-9091d03d2944.png">
+[PDF of Tukey Results Table](https://github.com/tlieva/Implication_of_Race_on_Male_Wages/blob/8acc134be01f2817dcc5445ca05289e0d14e44bd/Tukey_Results.pdf)
 
 
-1. **Wages vary by race:** Firstly, although the average wage was increasing at the time of the study, the rate and timing for that increase in wages was not universal for all the racial subgroups (see Figure 2 and Table 2). This finding validated our decision to subset the data into racial subgroups.
 
+1. **Wages vary by race:** Based on historical trends from 2003 to 2009, the mid-atlantic region have experienced an overall net upward trend in wage among the working Male. However, if we look at this with respect to race, this increase in wages was not universal for all the racial subgroups (Figure 3). This finding further validates our decision to subset the data into racial subgroups.
 
-2. **Higher education suggests higher wages for all racial subgroups:** First to look at levels of education (see Figure 3 and Appendix F: Table F1 and F2) for the racial subgroups of White, Black, and Asian, there was a correlation between higher level of education and higher wage. This suggests that regardless of your race it is best to get a higher level of education if you want to increase your wage.
+<p align="center">
+<img width="322" alt="Screen Shot 2023-02-01 at 6 28 47 PM" src="https://user-images.githubusercontent.com/106416383/216190888-5315c4a3-26da-4e8f-9458-a49ea6c2e704.png">
+</p>
+
+2. **Higher education suggests higher wages for all racial subgroups:** For the racial subgroups of White, Black, and Asian, there was a correlation between higher level of education and higher wage. This suggests that regardless of your race it is best to get a higher level of education if you want to increase your wage.
 
 3. **Marital status can impact wage depending on race:** White and black married men were found to have statistically significant higher wages. This observed relatinship may be attribute to the aforementioned findings in exisitng literature with respect to the "male marriage wage premium". This is further corroborated in the observed general decrease in wages with respect to males who were divorced or never married. However, it’s possible that people who have higher wages are more desirable as partners and therefore more likely to be married. The causal relationship cannot be discerned with the aforementioned tests. No signfiicant findings were found with respect to Asian males; however, this may be due to the small sample size and bias in the sample tow married men.
 
-4. **Good health suggests higher wages depending on race:** Compared to their Black couonterparts, Asian and White males who were reportedly to be in very good health were correlated to have a higher wage overall. 
+4. **Good health suggests higher wages depending on race:** Better health was found to be correlated with higher wages across all racial groups, with exception of Black males, which otherwise suggests that Black males should focus on other factors with respect to an individual's educational attainment and marital status to increase attractiveness in the job market.
 
 
 
